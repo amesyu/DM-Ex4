@@ -1,1 +1,2 @@
-# DM-Ex4
+# Data Management Exercises4
+- This repostory is for learning github. 
